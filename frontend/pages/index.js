@@ -47,7 +47,7 @@ export default function Home() {
               marginBottom: "2rem",
             }}
           >
-            Scrapper
+            Scraper
           </h1>
           <div
             style={{
